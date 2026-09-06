@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Alexander 👋
 
-<!--
-**AlexanderDeason/AlexanderDeason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner front-end developer currently learning how to build clean, visually appealing websites.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Learning HTML, CSS, JavaScript, and Git/GitHub
+- Interested in front-end development and UI design
+- Building fictional business websites to practice layout and visual design
+- Currently developing my portfolio as I learn
+
+## Skills I'm Learning
+
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+- Visual Studio Code
+
+## Projects
+
+Projects will be added here as I build them.
+
+## Current Goal
+
+My goal is to become a front-end developer with a strong focus on UI and visual website design.
